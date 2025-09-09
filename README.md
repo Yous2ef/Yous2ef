@@ -145,24 +145,11 @@ const developeStats = {
 </div>
 
 <br>
-
 <div align="center">
   
 ### 🎨 **FRONTEND UNIVERSE**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
-</p>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,threejs,vercel&theme=dark" />
 </div>
 
 <br>
@@ -171,17 +158,7 @@ const developeStats = {
 
 ### ⚡ **BACKEND DIMENSION**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=000" alt=".NET"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000" alt="C#"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000" alt="PostgreSQL"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mongodb,postgresql,python,sqlite,sql&theme=dark" />
 
 </div>
 
@@ -191,16 +168,15 @@ const developeStats = {
 
 ### 🌩️ **CLOUD & DEVOPS REALM**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000" alt="VS Code"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,vite,github,linux&theme=dark" />
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+  
 </div>
 
 ---
