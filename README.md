@@ -21,10 +21,10 @@
 ```ascii
 ████████╗██╗  ██╗███████╗    ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██╗      █████╗ ███╗   ██╗███████╗████████╗
 ╚══██╔══╝██║  ██║██╔════╝   ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██║     ██╔══██╗████╗  ██║██╔════╝╚══██╔══╝
-   ██║   ███████║█████╗     ██║     ██║   ██║██║  ██║█████╗      ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║   
-   ██║   ██╔══██║██╔══╝     ██║     ██║   ██║██║  ██║██╔══╝      ██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔══╝     ██║   
-   ██║   ██║  ██║███████╗   ╚██████╗╚██████╔╝██████╔╝███████╗    ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║   
-   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
+   ██║   ███████║█████╗     ██║     ██║   ██║██║  ██║█████╗      ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║
+   ██║   ██╔══██║██╔══╝     ██║     ██║   ██║██║  ██║██╔══╝      ██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔══╝     ██║
+   ██║   ██║  ██║███████╗   ╚██████╗╚██████╔╝██████╔╝███████╗    ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝
 ```
 
 </div>
@@ -83,7 +83,8 @@ I'm not just another developer copying Stack Overflow solutions. I'm a **digital
 
 My origin story? Started as a **.NET warrior** building desktop fortresses, but the siren call of the web was too strong. Now I craft **React symphonies** and **Three.js masterpieces** that make users forget they're staring at code.
 
-**Current side quest:** Climbing from 1300 to 1500 chess rating while building apps that make people say *"Wait, how is this even possible?"*
+**Current side quest:** Climbing from 1300 to 1500 chess rating while building apps that make people say _"Wait, how is this even possible?"_
+
 </div>
 
 </td>
@@ -98,23 +99,23 @@ My origin story? Started as a **.NET warrior** building desktop fortresses, but 
 
 ```javascript
 const developeStats = {
-  powerLevel: "OVER 9000! 🔥",
-  chessRating: {
-    current: 1300,
-    target: 1500,
-    progress: "86.7%",
-    motto: "Every move counts"
-  },
-  codingHours: {
-    daily: "6-8 hours",
-    peakTime: "8PM - 2AM 🌙",
-    coffeeConsumed: "∞ cups"
-  },
-  debugging: {
-    method: "console.log() warrior",
-    success_rate: "99.9%",
-    patience_level: "Grandmaster"
-  }
+    powerLevel: "OVER 9000! 🔥",
+    chessRating: {
+        current: 1300,
+        target: 1500,
+        progress: "86.7%",
+        motto: "Every move counts",
+    },
+    codingHours: {
+        daily: "6-8 hours",
+        peakTime: "8PM - 2AM 🌙",
+        coffeeConsumed: "∞ cups",
+    },
+    debugging: {
+        method: "console.log() warrior",
+        success_rate: "99.9%",
+        patience_level: "Grandmaster",
+    },
 };
 ```
 
@@ -239,10 +240,10 @@ const developeStats = {
   <table border="0" cellspacing="0" cellpadding="10" width="100%">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yous2ef&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=20B2AA&icon_color=20B2AA&text_color=FFFFFF&border_radius=15&custom_title=⚡+YOUSSEF'S+CODE+POWER+⚡" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Yous2ef&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=20B2AA&icon_color=20B2AA&text_color=FFFFFF&border_radius=15&custom_title=⚡+YOUSSEF'S+CODE+POWER+⚡" width="100%" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yous2ef&theme=dark&hide_border=true&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=20B2AA&currStreakLabel=20B2AA&sideNums=FFFFFF&dates=FFFFFF&border_radius=15" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yous2ef&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=20B2AA&currStreakLabel=20B2AA&sideNums=FFFFFF&dates=FFFFFF&border_radius=15" width="100%" />
       </td>
     </tr>
   </table>
@@ -252,17 +253,14 @@ const developeStats = {
 
 <!-- Secondary Stats Grid -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yous2ef&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" width="100%" />
-	
+  <img src="https://github-profile-trophy.vercel.app/?username=Yous2ef&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers&count_private=true" width="100%" />
 </div>
 
 <br>
 
-
-
 <!-- GitHub Profile Summary -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yous2ef&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yous2ef&theme=github_dark&count_private=true" width="100%" />
 </div>
 
 <br>
@@ -272,10 +270,10 @@ const developeStats = {
   <table border="0" cellspacing="0" cellpadding="10" width="100%">
     <tr>
       <td align="center" valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yous2ef&theme=github_dark" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yous2ef&theme=github_dark&count_private=true" width="100%" />
       </td>
       <td align="center" valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yous2ef&theme=github_dark" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yous2ef&theme=github_dark&count_private=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -350,12 +348,12 @@ const developeStats = {
 
 ```
       ✨ THE STORY CONTINUES... ✨
-      
+
    "In a world of 10x developers,
     I choose to be a 1x human
     who codes with heart and
     plays chess with soul"
-    
+
    - Youssef, who turns impossible dreams into reality
 ```
 
