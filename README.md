@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YOUSSEF&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20DIGITAL%20ALCHEMIST%20%7C%20CODE%20SORCERER%20%7C%20CHESS%20WARRIOR%20🚀&descAlignY=55&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YOUSSEF+MAHMOUD&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀TURNING+IMPOSSIBLE+DREAMS+INTO+REALITY🚀&descAlignY=55&descAlign=50&descSize=18" />
 </div>
 
 
@@ -177,9 +177,9 @@ const developeStats = {
 
 <div align="center">
 
-[![🚀 Enter My Universe](https://img.shields.io/badge/🚀_ENTER_MY_UNIVERSE-FF6EC7?style=for-the-badge&logoColor=white&labelColor=000)](https://youssef-mahmoud-taupe.vercel.app/about)
-[![🤝 LinkedIn Adventure](https://img.shields.io/badge/🤝_LINKEDIN_QUEST-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/youssefmahmoud-yma/)
-[![📧 Direct Message](https://img.shields.io/badge/📧_DIRECT_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:youssef.mahmoud.yg@gmail.com)
+[![🎪 Enter My Universe](https://img.shields.io/badge/🎪_ENTER_MY_UNIVERSE-6366f1?style=for-the-badge&logoColor=white)](https://youssef-mahmoud-taupe.vercel.app/about)
+[![🤝 Connect on LinkedIn](https://img.shields.io/badge/🤝_LINKEDIN_QUEST-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefmahmoud-yma/)
+[![📬 Send a Message](https://img.shields.io/badge/📬_SEND_MESSAGE-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.mahmoud.yg@gmail.com)
 [![♟️ Chess Battle](https://img.shields.io/badge/♟️_CHESS_DUEL-769656?style=for-the-badge&logo=chess.com&logoColor=white&labelColor=000)](https://www.chess.com/member/yous2ef1)
 
 </div>
@@ -194,23 +194,24 @@ const developeStats = {
 
 ## 🎭 **THE FINAL SCENE** 🎭
 
-```
-✨ "In a universe of infinite possibilities,
-   I choose to code with passion,
-   play chess with wisdom,
-   and build dreams with determination." ✨
-   
-        - Youssef, Digital Alchemist & Chess Warrior
-```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
+
+```
+      ✨ THE STORY CONTINUES... ✨
+      
+   "In a world of 10x developers,
+    I choose to be a 1x human
+    who codes with heart and
+    plays chess with soul"
+    
+   - Youssef, who turns impossible dreams into reality
+```
+
+
+**Thanks for joining my story. Now, let's write the next chapter together! 🚀♟️**
+
 </div>
 
-**🚀 The adventure continues... Will you join me in building the impossible? 🚀**
-
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=TO+BE+CONTINUED...&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
-</div>
