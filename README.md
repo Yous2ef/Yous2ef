@@ -243,7 +243,7 @@ const developeStats = {
         <img src="https://github-readme-stats.vercel.app/api?username=Yous2ef&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=20B2AA&icon_color=20B2AA&text_color=FFFFFF&border_radius=15&custom_title=⚡+YOUSSEF'S+CODE+POWER+⚡" width="100%" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yous2ef&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=20B2AA&currStreakLabel=20B2AA&sideNums=FFFFFF&dates=FFFFFF&border_radius=15" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yous2ef&theme=dark&hide_border=true&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=20B2AA&currStreakLabel=20B2AA&sideNums=FFFFFF&dates=FFFFFF&border_radius=15&count_private=true" width="100%" />
       </td>
     </tr>
   </table>
